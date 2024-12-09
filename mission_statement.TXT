@@ -1,0 +1,18 @@
+-build a dynamic app that changes as time goes
+-app should be as lightweight as possible as to avoid potential problems
+-call the app shush
+-app to app communication
+	-use federal protocol in this app
+	-make it so that server contents are shared
+	-make the users able to communicate with each other
+-clone of hush app
+	-features to keep
+		-reciever of a picture has controllable consent 
+		-blocking
+		-option to controll where you say you can be and request location to update your data
+		-text on picture format from preselection of pictures
+	-remove feature/unwanted features
+		-watch and local tab
+		-hosting pictures on server side
+-platforms should have the option to allow bots but bots should
+-use activitypub for server archetecture 
