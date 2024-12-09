@@ -1,7 +1,11 @@
 -intended goal of the project
 	-build a dynamic source code changes as time goes on and even spawns offshoots
--app should be as lightweight as possible as to avoid potential problems
--call the app shush
+	-program should be scalable so that it can run on laptop and 
+-ideal core to this project
+	-app should be as lightweight as possible as to avoid potential problems
+	-UI should be as simple and fast as possible
+	-call the app shush
+	-app should have section dedicated to implimenting ads
 -app to app communication
 	-use federal protocol in this app
 	-make it so that server contents are shared
@@ -16,6 +20,7 @@
 		-watch and local tab
 		-hosting pictures on server side
 -must have features
-	-encryted chats	
--platforms should have the option to allow bots but bots should
--use activitypub for server archetecture 
+	-encryted chats
+-Low tier 
+	-platforms should have the option to allow bots but bots should
+	-use activitypub for server archetecture 
