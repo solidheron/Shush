@@ -24,3 +24,4 @@
 -Low tier 
 	-platforms should have the option to allow bots but bots should
 	-use activitypub for server archetecture 
+	- possible section for filtering out preverted post or spam either by server or client
