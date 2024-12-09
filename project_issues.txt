@@ -1,2 +1,5 @@
 what kind of archetecture will the app have?
 what kind of archetecture will the infasture have?
+what issue will be if two apps try to merge base and one is bigger and could crash the other server with all of its activity?
+  -users from another app should have a token to identfy them as such so that they can either interact throught the server or directly with the app
+    -dont make it so that server from one app communicates directly with a client from another app?
