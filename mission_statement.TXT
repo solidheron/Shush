@@ -1,4 +1,5 @@
--build a dynamic app that changes as time goes
+-intended goal of the project
+	-build a dynamic source code changes as time goes on and even spawns offshoots
 -app should be as lightweight as possible as to avoid potential problems
 -call the app shush
 -app to app communication
@@ -14,5 +15,7 @@
 	-remove feature/unwanted features
 		-watch and local tab
 		-hosting pictures on server side
+-must have features
+	-encryted chats	
 -platforms should have the option to allow bots but bots should
 -use activitypub for server archetecture 
