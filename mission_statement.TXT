@@ -5,7 +5,7 @@
 	-app should be as lightweight as possible as to avoid potential problems
 	-UI should be as simple and fast as possible
 	-call the app shush
-	-app should have section dedicated to implimenting ads
+	-shush project should have section dedicated to implimenting ads
 -app to app communication
 	-use federal protocol in this app
 	-make it so that server contents are shared
