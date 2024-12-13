@@ -1,0 +1,21 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/currentFragment">
+
+    <fragment
+        android:id="@+id/currentFragment"
+        android:name="com.example.aiattempt3.CurrentFragment"
+        android:label="Current Fragment">
+        <action
+            android:id="@+id/action_currentFragment_to_postConfirmationFragment"
+            app:destination="@id/postConfirmationFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/postConfirmationFragment"
+        android:name="com.example.aiattempt3.PostConfirmationFragment"
+        android:label="Post Confirmation Fragment" />
+
+    <!-- Add other fragments and actions as needed -->
+</navigation> 
